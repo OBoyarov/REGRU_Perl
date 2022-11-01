@@ -51,3 +51,5 @@ foreach my $row3 (@$result3) {
 print $table3->draw;
 
 $connect->disconnect();
+
+
