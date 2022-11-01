@@ -10,3 +10,5 @@ ON
   d.user_id = u.user_id
 WHERE
   u.name = N'Иван Иванов';
+
+
