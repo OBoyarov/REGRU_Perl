@@ -3,10 +3,10 @@ use strict;
 use warnings;
 
 use DBI;
-use Data::Dumper;
 use Text::SimpleTable::AutoWidth;
 
-my $connect = DBI->connect("DBI:mysql:database=u1614732_perl;host=31.31.198.124;port=3306", "u1614732_perl","xX4vA5dI2v") or die "Error connecting to database"; 
+#password for db: https://paste.reg.ru/48f9bc896bf7
+my $connect = DBI->connect("DBI:mysql:database=u1614732_perl;host=31.31.198.124;port=3306", "u1614732_perl","see comment") or die "Error connecting to database"; 
 $connect->do(qq{SET NAMES 'utf8mb4';});
 
 ### таблица users
