@@ -2,7 +2,8 @@
 use Mojolicious::Lite -signatures;
 use DBI;
 
-my $dbh = DBI->connect("DBI:mysql:database=u1614732_perl;host=31.31.198.124;port=3306", "u1614732_perl", "xX4vA5dI2v", { mysql_enable_utf8 => 1, RaiseError => 1, AutoCommit => 0 });
+#password for db: https://paste.reg.ru/48f9bc896bf7
+my $dbh = DBI->connect("DBI:mysql:database=u1614732_perl;host=31.31.198.124;port=3306", "u1614732_perl", "see comment", { mysql_enable_utf8 => 1, RaiseError => 1, AutoCommit => 0 });
 
 my $query_clients = "SELECT 
 	cl.client_id,
