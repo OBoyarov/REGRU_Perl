@@ -63,7 +63,7 @@ d.	вывести имена всех файлов, которые содерж�
 
 Задача 3, решение по ссылке [Datetime](https://github.com/OBoyarov/REGRU_Perl/tree/main/Datetime):
 Тут просто сплит по пробелу регуляркой.
-Так же глянуть вывод можно здесь: [http://perl.isp.regruhosting.ru/datetime/task.pl](perl.isp.regruhosting.ru/datetime/task.pl)
+Так же глянуть вывод можно здесь: [http://perl.isp.regruhosting.ru/datetime/task.pl](http://perl.isp.regruhosting.ru/datetime/task.pl)
 
 Задача 4, решение по ссылке [Database](https://github.com/OBoyarov/REGRU_Perl/tree/main/Database):
 Так же глянуть вывод можно здесь: [http://perl.isp.regruhosting.ru/database/task.pl](http://perl.isp.regruhosting.ru/database/task.pl)
